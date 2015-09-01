@@ -1,0 +1,66 @@
+body{
+  box-sizing: border-box;
+  background-image: url(woodWall.jpg);
+}
+
+header{
+  margin-bottom: 50px;
+  border-bottom: solid 1px #ccc;
+  padding-bottom: 45px;
+}
+
+div.well.pageContainer{
+  background-position:bottom;
+  margin: 50px 50px 50px 50px;
+}
+.blue{
+  color: #00B8F1;
+}
+
+.contactBottom{
+  margin-top: 50px;
+  text-align: center;
+  list-style-type: none;
+  border-top: solid 1px #ccc;
+  padding-top: 17px;
+}
+
+.contactBottom .download{
+  color: black;
+  margin-top: 30px;
+}
+
+.contactBottom .download a{
+  color: black;
+}
+
+h1.name{
+  float: left;
+  margin-right: 10%;
+  font-family: 'Oswald', sans-serif;
+  font-size: 45px;
+  position: relative;
+  bottom:25px;
+}
+
+.contact a{
+  color: #00B8F1;
+  float: right;
+}
+
+.contactBottom a{
+  color: #00B8F1;
+}
+
+p{
+  color: rgba(74, 72, 72, 0.89);
+}
+
+.section{
+  margin-left: 15%;
+}
+
+
+.right{
+  margin-left: 5%;
+}
