@@ -5,6 +5,7 @@ body{
 
 header{
   margin-bottom: 50px;
+  border-bottom: solid 1px #ccc;
   padding-bottom: 45px;
 }
 
